@@ -7,12 +7,104 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "Under the shade of trees in City Hall Park, a coalition of environmental organizations, elected city officials, and residents gathered on Sept. 14 to show support for Introductions 1065 and 1066, new bills intended to expand and maintain New York City’s forested areas. After the rally, Introduction 1066 passed, while 1065 was delayed to an unspecified later date."
+          },
+          {
+            "type": "text",
+            "value": "The rally highlighted unequal access to shaded areas in the city—an environmental and health disparity that disproportionately impacts communities such as West Harlem. WE ACT for Environmental Justice, a West Harlem-based organization, is a member of Forest for All NYC, the coalition of over 110 organizations that hosted the rally."
+          },
+          {
+            "type": "text",
+            "value": "Lonnie Portis, the New York City policy and advocacy manager for WE ACT, said at the rally that the impact of extreme heat and climate change is not felt equally throughout the city."
+          },
+          {
+            "type": "text",
+            "value": "“Black New Yorkers are twice as likely to die during and immediately following extreme emergency,” Portis said at the rally. “One of the reasons for this is the lack of greenery in these communities, whether they be parks, community gardens, or street trees.”"
+          },
+          {
+            "type": "text",
+            "value": "Emily Nobel Maxwell, the New York cities program director of The Nature Conservancy, also said that the tree canopy is unequally distributed throughout New York City, ranging from areas with three percent coverage to others with 78 percent coverage."
+          },
+          {
+            "type": "text",
+            "value": "“Neighborhoods like parts of Upper Manhattan, the South Bronx, parts of central Brooklyn, have very low canopy, while we see some areas of the city with much higher canopy,” Maxwell said. “So there is disparity.”"
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "tree-heat.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "In alignment with street tree distribution, West Harlem has a higher heat vulnerability index than the majority of Manhattan neighborhoods."
+          },
+          {
+            "type": "text",
+            "value": "In July, WE ACT released a 2023 Extreme Heat Policy Agenda, which endorsed a robust effort to plant more trees in historically underserved neighborhoods. Heat-related deaths have become increasingly common in New York City over the past decade, and planting more trees would address this issue, among other environmental health concerns."
+          },
+          {
+            "type": "text",
+            "value": "Maxwell explained that the urban forest is essential to the well-being of the city. Maxwell defined the urban forest as “all 7 million plus trees across New York City” which collectively provide physical and psychological benefits to residents and enrich the New York City ecosystem."
+          },
+          {
+            "type": "text",
+            "value": "“[The urban forest] cleans and filters water, helping it move less and more slowly into our waterways, so it helps with water pollution,” Maxwell said. “It actually improves health and well-being and can help with respiratory issues and with mental health. And it also provides really critical biodiversity habitat for lots of cool critters.”"
+          },
+          {
+            "type": "text",
+            "value": "Despite the proven positive impacts of trees, investment in the urban forest has not been a priority in recent city legislation. This January, WE ACT reported that “the number of trees planted this fiscal year is the fewest planted in the first quarter since 2008.”"
+          },
+          {
+            "type": "text",
+            "value": "Introduction 1066 aims to reverse this trend by prioritizing trees in legislation and funding decisions."
+          },
+          {
+            "type": "text",
+            "value": "“This bill does two really important things,” Maxwell said. “One is it makes sure that trees are considered alongside other infrastructure, in my view putting them on par with important infrastructure. And then, also, it means that every administration moving forward, as opposed to it being at the interest of any given administration, must include trees and tree canopy in the planning and report that is required to be issued by law every four years for the city’s sustainability.”"
+          },
+          {
+            "type": "text",
+            "value": "Although Introduction 1065 was ultimately not brought forward on Sept. 14, Maxwell is hopeful that the bill will be passed soon. The bill would require government agencies, including the Department of Parks and Recreation and the Mayor’s Office of Long-Term Planning and Sustainability, to establish an “Urban Forest Plan” with the goal of expanding the city’s tree cover from the current 22 percent coverage to 30 percent coverage."
+          },
+          {
+            "type": "text",
+            "value": "“Collectively, if both bills pass, it is a great foundation for a greener and healthier city,” Maxwell said. “The Nature Conservancy and the coalition Forest for All NYC, we are very concerned about ensuring adequate budget for tree canopy across New York City and we will continue to work hard to secure both the right laws and also sufficient funding.”"
+          },
+          {
+            "type": "text",
+            "value": "Council member Erik Bottcher, who initially proposed Introduction 1065, said that this bill is just one step in the ongoing effort to further climate and sustainability legislation in New York City."
+          },
+          {
+            "type": "text",
+            "value": "“That’s just the beginning,” Bottcher said. “Future generations, they are gonna look back and they’re gonna want to know, what did we do? What did we do when we faced a threat to the future of humanity?”"
+          },
+          {
+            "type": "text",
+            "value": "<i>City News Staff Writer Claire Cleary can be contacted at </i><i>claire.cleary@columbiaspectator.com</i><i>. Follow her on Twitter @</i><a href=\"http://twitter.com/clairecleary_\"><i>clairecleary_</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics Staffer Ana Pekec can be contacted at </i><a href=\"mailto:ana.pekec@columbiaspectator.com\"><i>ana.pekec@columbiaspectator.com</i></a>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a>."
+          }
+        ],
+        "headline": "Forest for All NYC hosts rally to combat extreme heat and health concerns by expanding tree canopy",
+        "date": "September 24, 2023",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/claire-cleary/\">Claire Cleary</a>. Graphics by <a href=\"https://www.columbiaspectator.com/contributors/Ana-Pekec/\">Ana Pekec</a>.",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/XWECFQBHTNHSPG2RDVN27WKJYQ.jpg",
+        "cover_caption": "Forest for All NYC Coalition rally on Sept. 14. Pippa Tsuki Carlson / Deputy Photo Editor",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1xs61OQKvX3R-opC-o0jUD8n-ucCSNGxyZ1D6lBfAEx0/edit"
       }
     }
   }
